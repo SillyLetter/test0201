@@ -12,4 +12,4 @@ def get_database_url():
 
 if __name__ == "__main__":
     url = get_database_url()
-    print(f"✅ 系統啟動中... 連線至：{url}")
+    print(f"✅ 系統啟動中.... 連線至：{url}")
